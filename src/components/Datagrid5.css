@@ -1,0 +1,28 @@
+.css-16b5y55-MuiPickersLayout-contentWrapper,.css-4pax7l-MuiPickersLayout-root .MuiPickersLayout-toolbar {
+    width: 630px;
+}
+
+.year-navigation-buttons {
+    display: flex;
+    justify-content: space-between; /* Align buttons horizontally */
+    margin: 5px 0; /* Add some spacing */
+  }
+  
+  .year-navigation-buttons button {
+    /* Style your buttons here (e.g., border, padding) */
+  }
+  
+  .css-4pax7l-MuiPickersLayout-root .MuiPickersLayout-actionBar{
+    width: 650px;
+  }
+
+
+  /* OPTIONAL CSS */
+
+  .css-4pax7l-MuiPickersLayout-root,.css-1aj9me-MuiPickersLayout-root{
+    display: block !important;
+    width: 630px;
+    box-shadow: rgba(99, 99, 99, 0.3) 0px 2px 8px 0px !important;
+    border-radius: 10px;
+    margin: 50px;
+  }
